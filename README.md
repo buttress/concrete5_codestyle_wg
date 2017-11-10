@@ -9,6 +9,7 @@
 | Name | Github account |
 | ---- | -------------- |
 | Korvin Szanto | [korvinszanto][ks-github] |
+| Peter McLennan | [gondwanasoft][pm-github] |
 
 
 ## Proposals:
@@ -19,4 +20,5 @@
 
 
 [ks-github]: https://github.com/korvinszanto
+[pm-github]: https://github.com/gondwanasoft
 [proposal-code-standards]: /drafts/code_standards/proposal.md
