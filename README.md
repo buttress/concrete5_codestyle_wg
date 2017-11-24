@@ -10,6 +10,7 @@
 | ---- | -------------- |
 | Korvin Szanto | [korvinszanto][ks-github] |
 | Peter McLennan | [gondwanasoft][pm-github] |
+| Ruud Walraven | [Ruud-Zuiderlicht][rw-github] |
 
 
 ## Proposals:
@@ -21,4 +22,5 @@
 
 [ks-github]: https://github.com/korvinszanto
 [pm-github]: https://github.com/gondwanasoft
+[rw-github]: https://github.com/Ruud-Zuiderlicht
 [proposal-code-standards]: /drafts/code_standards/proposal.md
