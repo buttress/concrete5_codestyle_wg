@@ -33,4 +33,4 @@
 [proposal-code-standards]: /drafts/code_standards/proposal.md
 [proposal-php71]: /drafts/php71_minimum_version/proposal.md
 
-[idea-1]: /issues/3
+[idea-1]: https://github.com/buttress/concrete5_codestyle_wg/issues/3
