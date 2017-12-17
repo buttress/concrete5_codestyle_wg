@@ -26,6 +26,7 @@
 | Author | Proposal | Target |
 | ------ | -------- | ------ |
 | Korvin Szanto | [Service provider `$provides`][idea-1] | v9.0.0 |
+| Korvin Szanto | [Eliminate `new User()`][idea-2] | v9.0.0 |
 
 [ks-github]: https://github.com/korvinszanto
 [pm-github]: https://github.com/gondwanasoft
@@ -34,3 +35,4 @@
 [proposal-php71]: /drafts/php71_minimum_version/proposal.md
 
 [idea-1]: https://github.com/buttress/concrete5_codestyle_wg/issues/3
+[idea-2]: https://github.com/buttress/concrete5_codestyle_wg/issues/4
