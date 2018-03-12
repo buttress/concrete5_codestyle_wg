@@ -16,10 +16,10 @@ The scope of this proposal applies to any future version that includes deprecate
 
 ## 3.1. Goals
 
-- Remove all usage of deprecated features by the core
+- Remove all usage of deprecated features by the core
 - Deprecated methods should be gutted and made to go through new code
 - Place helpful comments for how to migrate away
-- Determine when to remove deprecated features
+- Remove deprecated features after two major versions of deprecation
 
 ## 3.2 Non-Goals
 
