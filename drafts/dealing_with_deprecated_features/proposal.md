@@ -28,7 +28,7 @@ The scope of this proposal applies to any future version that includes deprecate
 # 4. How?
 
 ## 4.1. Refactor any code using a deprecated feature
-A lot of code can be replaced using search (and replace). Other code might have to be partly rewritten. There will be a fair amount of work required.
+A lot of code can be replaced using search (and replace). Other code might have to be partly rewritten. There will be a fair amount of work required to cleanup for the initial release target. After cleanup affected code should be refactored when deprecating features.
 
 ## 4.2. Placing @deprecated tag
 Placing the [@deprecated tag][deprecated_tag] clearly marks affected features. Developers can take note of the change and many IDE's support phpDoc as well.
